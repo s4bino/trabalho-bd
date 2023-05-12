@@ -8,11 +8,11 @@ Tema: Um sistema de gerenciamento de dados de uma faculdade. Gerenciando tabelas
 
 Ele foi feito em 3 etapas:
 
-1º etapa: fazer um modelo ER, um diagrama de alto nível do que estavámos buscando representar.
+1. * etapa: fazer um modelo ER, um diagrama de alto nível do que estavámos buscando representar.
 
-2º etapa: contruir um modelo Relacional para o tema, respeitando as regras de integridade.
+2. * etapa: contruir um modelo Relacional para o tema, respeitando as regras de integridade.
 
-3º etapa: a codificação em si do Banco de Dados, foi gerado o schema a partir diagrama Relacional e a codificação das funcionalidades foram feitas em cima desse schema.
+3. * etapa: a codificação em si do Banco de Dados, foi gerado o schema a partir diagrama Relacional e a codificação das funcionalidades foram feitas em cima desse schema.
 
 ## Objetivo
 
